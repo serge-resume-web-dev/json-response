@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Jack Sparrow",
+        "rank": "Captain",
+        "ship": "Black Pearl",
+        "prize": 1000,
+        "captured": false
+
+    },
+    {
+        "name": "Billy Bounce",
+        "rank": "Chief mate",
+        "ship": "Flyin Dutchman",
+        "prize": 800,
+        "captured": false
+
+    },
+    {
+        "name": "John Silver",
+        "rank": "Captain",
+        "ship": "Cockrouch",
+        "prize": 900,
+        "captured": false
+
+    }
+]
