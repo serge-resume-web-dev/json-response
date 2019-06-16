@@ -6,7 +6,6 @@
                     "ship": "Black Pearl",
                     "prize": 1000,
                     "captured": false
-
                 },
                 {
                     "name": "Billy Bounce",
@@ -14,7 +13,6 @@
                     "ship": "Flyin Dutchman",
                     "prize": 800,
                     "captured": false
-
                 },
                 {
                     "name": "John Silver",
@@ -22,7 +20,6 @@
                     "ship": "Cockrouch",
                     "prize": 900,
                     "captured": false
-
                 }
         ]
 }
